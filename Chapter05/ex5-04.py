@@ -1,0 +1,6 @@
+raindom = []
+random.apprnd(100)
+random.append(1.1)
+random.append("Hello")
+print(random)
+
